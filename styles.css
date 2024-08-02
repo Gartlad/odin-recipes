@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(177, 177, 177);
+}
+
+h1 {
+    padding: 80px;
+    background-color: gray;
+    color: white;
+    text-align: center;   
+    font-size: 40px; 
+}
+
+a {
+    text-align: center;
+    color: blue;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.link,
+.link,
+.link {
+    flex: 30%;
+    padding: 20px;
+}
